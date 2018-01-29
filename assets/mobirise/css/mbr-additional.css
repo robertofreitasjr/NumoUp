@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
@@ -37,7 +38,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -51,7 +52,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -64,14 +65,14 @@ h6,
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Open Sans', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -412,9 +413,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #000000;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -482,10 +480,11 @@ h6,
 #header1-3 .mbr-section-title {
   color: #ffffff;
   text-align: left;
+  font-size: 60px;
 }
 #header5-4 .mbr-section-title {
   color: #efefef;
-  font-size: 48px;
+  font-size: 36px;
 }
 #header5-4 .mbr-section-lead {
   color: #ffffff;

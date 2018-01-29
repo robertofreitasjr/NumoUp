@@ -12,12 +12,12 @@
         "infoColor": "#b8312f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Oswald",
+        "titleFont": "Raleway",
         "subtitleFont": "Open Sans",
         "textFont": "Open Sans",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -30,7 +30,10 @@
     "versionFirst": "4.6.3",
     "uniqCompNum": 10,
     "versionPublish": "4.6.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -173,7 +176,8 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "60px"
             }
           }
         },
@@ -182,7 +186,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#efefef",
-              "font-size": "48px"
+              "font-size": "36px"
             },
             ".mbr-section-lead": {
               "color": "#ffffff"
