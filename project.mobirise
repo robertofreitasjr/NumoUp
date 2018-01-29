@@ -359,65 +359,15 @@
           "_anchor": "features4-5"
         },
         {
-          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-6"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "showImages": true,
             "showName": true,
-            "showBio": true,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showBio": false,
+            "count": "3",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
@@ -531,16 +481,19 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/button-nup-128x128.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -555,7 +508,12 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-9"
+          "_anchor": "contacts1-9",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }
