@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "siteUrl": "",
+    "siteUrl": "http://numoup.club",
     "versionFirst": "4.6.3",
     "uniqCompNum": 19,
     "versionPublish": "4.6.3",
@@ -44,7 +44,8 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "screenshot": "screenshot.png",
-    "cookiesAlert": "Este site usa cookies para oferecer a você a melhor experiência. Leia a<a href='privacy.html'>Política de Privacidade</a>."
+    "cookiesAlert": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
