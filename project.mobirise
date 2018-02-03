@@ -257,7 +257,7 @@
               "padding-top": "1.5rem"
             },
             "H2": {
-              "color": "#000000",
+              "color": "#8282e7",
               "text-align": "center"
             },
             ".mbr-section-subtitle I": {
