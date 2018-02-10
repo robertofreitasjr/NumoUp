@@ -6,7 +6,7 @@
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
       "styling": {
-        "primaryColor": "#0e0e87",
+        "primaryColor": "#f42c14",
         "secondaryColor": "#0dcd7b",
         "successColor": "#0dcd7b",
         "infoColor": "#8282e7",
@@ -31,7 +31,8 @@
         "#238e23",
         "#2ce495",
         "#ea7b20",
-        "#ff6600"
+        "#ff6600",
+        "#f42c14"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -258,7 +259,7 @@
               "padding-top": "1.5rem"
             },
             "H2": {
-              "color": "#ff6600",
+              "color": "#336a95",
               "text-align": "center"
             },
             ".mbr-section-subtitle I": {
@@ -295,21 +296,21 @@
             },
             ".mbr-title": {
               "padding-bottom": "1rem",
-              "color": "#ffffff"
+              "color": "#336a95"
             },
             ".mbr-section-btn": {
               "padding-top": "1.5rem"
             },
             ".mbr-section-subtitle": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#a0a0a0"
             },
             ".mbr-section-subtitle I": {
               "color": "#a0a0a0"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section content1\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-14-1620x1080.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ff6600\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h2 mbr-if=\"showTitle\" class=\"mbr-title align-center mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-title\">USE SEU CELULAR, TABLET OU ​COMPUTADOR.</h2>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><br>NumoUp é um agregador de Painéis de Pesquisa.&nbsp;Sites e aplicativos que você responde inquéritos,&nbsp;testa produtos,&nbsp;interage em fóruns e&nbsp;ganha prêmios em&nbsp;dinheiro,&nbsp;crédito para celular&nbsp;e muito mais!</h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"index.html#features2-5\">COMO GANHAR?</a></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content1\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-14-1620x1080.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h2 mbr-if=\"showTitle\" class=\"mbr-title align-center mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-title\">USE SEU CELULAR, TABLET OU ​COMPUTADOR.</h2>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"><br>NumoUp é um agregador de Painéis de Pesquisa.&nbsp;Sites e aplicativos que você responde inquéritos,&nbsp;testa produtos,&nbsp;interage em fóruns e&nbsp;ganha prêmios em&nbsp;dinheiro,&nbsp;crédito para celular&nbsp;e muito mais!</h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"index.html#features2-5\">COMO GANHAR?</a></div>\n    </div>\n</section>",
           "_cid": "qIaxi1g3Fc",
           "_anchor": "content1-3",
           "_protectedParams": [],
@@ -384,7 +385,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content5",
-          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ff6600\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"paineis-de-pesquisa.html\">PARTICIPE JÁ</a>\n            <a class=\"btn btn-white-outline\" href=\"index.html#testimonials1-w\">DEPOIMENTOS</a></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"paineis-de-pesquisa.html\">PARTICIPE JÁ</a>\n            <a class=\"btn btn-black-outline\" href=\"index.html#testimonials1-w\">DEPOIMENTOS</a></div>\n    </div>\n</section>",
           "_cid": "qIxFlS00Hm",
           "_anchor": "content5-v",
           "_protectedParams": [],
