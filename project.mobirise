@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NumoUp",
-    "currentPage": "politica-de-privacidade.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -46,7 +46,7 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "screenshot": "screenshot.png",
-    "cookiesAlert": "",
+    "cookiesAlert": "Este site usa cookies para oferecer-lhe uma melhor experiência. Leia nossa <a href='politica-de-privacidade.html'>Política de Privacidade</a>.",
     "sitemapSwitcher": "on",
     "google-analytics": ""
   },
