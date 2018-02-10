@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NumoUp",
-    "currentPage": "index.html",
+    "currentPage": "politica-de-privacidade.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -719,6 +719,9 @@
             ".mbr-section-title": {
               "margin": "0",
               "color": "#336a95"
+            },
+            ".mbr-section-title B": {
+              "color": "#000000"
             }
           },
           "_name": "content2",
