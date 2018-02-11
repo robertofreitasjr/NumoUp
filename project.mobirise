@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "NumoUp",
-    "currentPage": "paineis-de-pesquisa.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
       "styling": {
-        "primaryColor": "#ff6600",
+        "primaryColor": "#76b3e3",
         "secondaryColor": "#0dcd7b",
         "successColor": "#0dcd7b",
         "infoColor": "#8282e7",
